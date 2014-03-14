@@ -1,5 +1,5 @@
 (function() {
-  GISTDECK_CSS_URL="https://gist.githubusercontent.com/meagar/9540974/raw/9f62d35401697b2f95526e6a03193cd96443cfab/gistdeck.css"
+  GISTDECK_CSS_URL="https://meagar.github.io/gistdeck/gistdeck.css";
 
   // Cache window and slides jQuery selectors
   var $window = $(window);
